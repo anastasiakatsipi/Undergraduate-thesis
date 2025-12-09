@@ -12,3 +12,10 @@ On the frontend, the application offers an intuitive and responsive user interfa
 The thesis includes the full development lifecycle—requirements analysis, architectural design, database modeling, implementation, testing, and evaluation of the system. Additionally, it discusses the technologies employed, the challenges encountered during development, and the potential improvements for future expansion.
 
 This work demonstrates how web technologies can be combined to build scalable, secure, and user-friendly systems that address real-world needs in task management and collaboration.
+
+Περίληψη:
+Η παρούσα πτυχιακή εργασία αφορά την ανάπτυξη μιας έξυπνης και δυναμικής διαδικτυακής πλατφόρμας διαχείρισης έργων, σχεδιασμένης ώστε να υποστηρίζει τόσο ατομική όσο και ομαδική εργασία. Η πλατφόρμα επιτρέπει τη δημιουργία και οργάνωση έργων, τη διαχείριση εργασιών (tasks), την ανάθεση ρόλων και δικαιωμάτων χρηστών, καθώς και την παρακολούθηση της προόδου σε πραγματικό χρόνο. Επιπλέον, ενσωματώνει μηχανισμούς συνεργασίας, όπως κοινή επεξεργασία, ενημερώσεις σε πραγματικό χρόνο και ιστορικό ενεργειών.
+
+Έμφαση δίνεται στην εξατομίκευση της εμπειρίας του χρήστη μέσω προσαρμοσμένων ειδοποιήσεων, δυναμικών προτάσεων και εμφάνισης του περιεχομένου με βάση τις ανάγκες του κάθε χρήστη. Η πλατφόρμα υλοποιείται με σύγχρονες τεχνολογίες διαδικτύου, συνδυάζοντας ευέλικτη αρχιτεκτονική backend, ασφαλή μηχανισμούς αυθεντικοποίησης, σχεσιακή βάση δεδομένων και διαδραστικό περιβάλλον διεπαφής.
+
+Η εργασία παρουσιάζει τη διαδικασία ανάλυσης απαιτήσεων, τον σχεδιασμό της αρχιτεκτονικής, τη μοντελοποίηση δεδομένων, την ανάπτυξη των λειτουργικών μονάδων και την αξιολόγηση της τελικής εφαρμογής. Το σύστημα στοχεύει να παρέχει μια ολοκληρωμένη, ασφαλή και επεκτάσιμη λύση για τη σύγχρονη διαχείριση έργων με εξατομίκευση χρήστη.
